@@ -1,3 +1,5 @@
+本项目基于strapi开发，技术栈为node.js
+
 启动项目方法：
 
 yarn create strapi-app my-project
